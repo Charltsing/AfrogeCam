@@ -1,0 +1,27 @@
+C:\Users\Charltsing\Desktop\AforgeCam\bin\Debug\cam_aforge.exe
+C:\Users\Charltsing\Desktop\AforgeCam\bin\Debug\cam_aforge.pdb
+C:\Users\Charltsing\Desktop\AforgeCam\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Charltsing\Desktop\AforgeCam\bin\Debug\AForge.Video.dll
+C:\Users\Charltsing\Desktop\AforgeCam\bin\Debug\AForge.dll
+C:\Users\Charltsing\Desktop\AforgeCam\bin\Debug\AForge.Video.xml
+C:\Users\Charltsing\Desktop\AforgeCam\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Charltsing\Desktop\AforgeCam\bin\Debug\AForge.xml
+C:\Users\Charltsing\Desktop\AforgeCam\obj\Debug\cam_aforge.Properties.Resources.resources
+C:\Users\Charltsing\Desktop\AforgeCam\obj\Debug\cam_aforge.csproj.GenerateResource.Cache
+C:\Users\Charltsing\Desktop\AforgeCam\obj\Debug\cam_aforge.exe
+C:\Users\Charltsing\Desktop\AforgeCam\obj\Debug\cam_aforge.pdb
+C:\Users\Charltsing\Desktop\AforgeCam\obj\Debug\cam_aforge.csprojResolveAssemblyReference.cache
+C:\Users\Charltsing\Desktop\AforgeCam\obj\Debug\cam_aforge.CamForm.resources
+D:\Test Code\AforgeCam\obj\Debug\cam_aforge.exe
+D:\Test Code\AforgeCam\obj\Debug\cam_aforge.pdb
+D:\Test Code\AforgeCam\bin\Debug\cam_aforge.exe
+D:\Test Code\AforgeCam\bin\Debug\cam_aforge.pdb
+D:\Test Code\AforgeCam\bin\Debug\AForge.Video.DirectShow.dll
+D:\Test Code\AforgeCam\bin\Debug\AForge.Video.dll
+D:\Test Code\AforgeCam\bin\Debug\AForge.dll
+D:\Test Code\AforgeCam\bin\Debug\AForge.Video.xml
+D:\Test Code\AforgeCam\bin\Debug\AForge.Video.DirectShow.xml
+D:\Test Code\AforgeCam\bin\Debug\AForge.xml
+D:\Test Code\AforgeCam\obj\Debug\cam_aforge.CamForm.resources
+D:\Test Code\AforgeCam\obj\Debug\cam_aforge.Properties.Resources.resources
+D:\Test Code\AforgeCam\obj\Debug\cam_aforge.csproj.GenerateResource.Cache
